@@ -1,13 +1,13 @@
 ---
 services: Sql
 platforms: java
-author: anudeepsharma
+author: milismsft
 ---
 
 ## Getting Started with Sql - Manage Sql Firewall Rules - in Java ##
 
 
-  Azure Storage sample for managing SQL Database -
+  Azure SQL sample for managing SQL Database -
    - Create a SQL Server along with 2 firewalls.
    - Add another firewall in the SQL Server
    - List all firewalls.
