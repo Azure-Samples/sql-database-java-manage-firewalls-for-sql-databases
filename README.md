@@ -4,9 +4,8 @@ languages:
 - java
 products:
 - azure
-extensions:
-- services: Sql
-- platforms: java
+description: "Getting Started with Sql - Manage Sql Firewall Rules - in Java"
+urlFragment: sql-database-java-manage-firewalls-for-sql-databases
 ---
 
 # Getting Started with Sql - Manage Sql Firewall Rules - in Java #
